@@ -1,0 +1,15 @@
+.searchIcon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    width: 100px;
+    height: 100px;
+}
+
+.startPage {
+    text-align: center;
+    color: #808080;
+    font-family: Inter;
+    font-size: 22px;
+}

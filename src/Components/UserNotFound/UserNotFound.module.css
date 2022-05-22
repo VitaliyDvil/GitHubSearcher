@@ -1,0 +1,19 @@
+.noUser {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    color: #808080;
+    display: block;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+.noUserIcon {
+    width: 100px;
+    height: 100px;
+    margin-left: 30%;
+}
+
+.text {
+    margin-left: 20%;
+}

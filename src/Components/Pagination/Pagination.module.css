@@ -1,0 +1,28 @@
+.pageLink {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-decoration: none;
+    border: 1px solid #0064EB;
+    color: #0064EB;
+    text-align: center;
+}
+
+.pageNumbers {
+    list-style-type: none;
+}
+
+.pageItem {
+    display: inline;
+}
+
+.pageLink:hover {
+    color: red;
+    border: 1px solid red;
+}
+
+.pagination {
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+}

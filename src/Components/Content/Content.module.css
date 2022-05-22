@@ -1,0 +1,89 @@
+.content {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-top: 75px;
+}
+
+/* .user {
+
+    
+}
+
+.repos {
+    
+} */
+
+.reposCount {
+    font-family: Inter;
+    font-style: Semi Bold;
+    font-size: 32px;
+    line-height: 42px;
+    line-height: 130%;
+    vertical-align: Top;
+}
+
+.repoLink {
+    color: #0064EB;
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.repoDescription {
+    display: block;
+    font-family: Inter;
+    font-size: 16px;
+    color: black;
+    margin-left: 20px;
+}
+
+.avatar {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.name {
+    display: block;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    line-height: 33.8px;
+    text-decoration: none;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.linkToGitHub {
+    display: block;
+    color: #0064EB;
+    font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    line-height: 33.8px;
+    text-decoration: none;
+    margin-left: 60px;
+    /* margin-top: 10px; */
+}
+
+.followers {
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 30px;
+    font-family: Inter;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 150%;
+    text-align: Left;
+    vertical-align: Top;
+}
+
+.followersIcon {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 3px;
+}

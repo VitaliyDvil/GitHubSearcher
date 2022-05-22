@@ -1,0 +1,43 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1366px;
+  height: 72px;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #0064EB;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  background: #FFFFFF;
+  fill-opacity: 0;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+.search {
+  display: inline-flex;
+  border-radius: 10px;
+  padding: 10px;
+  background: #FFFFFF;
+}
+
+.searchIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  order: -1;
+}
+
+.searchField {
+  width: 300px;
+  border: 0;
+  outline: none;
+}

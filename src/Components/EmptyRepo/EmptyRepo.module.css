@@ -1,0 +1,13 @@
+.noRepos {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    color: #808080;
+    display: block;
+    margin-left: 10%;
+    margin-top: 30%;
+}
+
+.noDataIcon {
+    margin-left: 30%;
+}
